@@ -1,1 +1,7 @@
-﻿step 1
+﻿this is a  test for git
+
+xiugai
+
+测试
+
+create dev
